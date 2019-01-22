@@ -1,0 +1,24 @@
+.btn
+{
+    border-color:rgb(224, 222, 222);
+    padding: 1em;
+    margin-right: 1em;
+}
+
+#olympics_image
+{
+    width:50em;
+    height: 25em;
+}
+
+#image
+{
+    width:8em;
+    height: 5em;
+    margin: 2em;
+}
+
+#title
+{
+    margin-top:2em;
+}
